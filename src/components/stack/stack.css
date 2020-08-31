@@ -1,0 +1,17 @@
+.element{
+    background-color: teal;
+    width: 51%;
+    padding: 7px;
+    border-radius: 11px;
+    margin-top: 5px;
+    list-style-type:none;
+    color:white;
+    text-align: center;
+}
+
+.stackContainer{
+    width: 50%;
+    border-bottom: 5px solid red;
+    border-left: 5px solid red;
+    border-right: 5px solid red;
+}
