@@ -1,5 +1,7 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+![alt text](https://github.com/krishnacharya-it/react-reducx-app-Stack-Demo-/blob/master/Screenshot_2020-08-31%20React%20App.png)
+
 ## Available Scripts
 
 In the project directory, you can run:
